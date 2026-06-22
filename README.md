@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Charlemagne404/Charlemagne404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/continental-banner.png" alt="Continental" width="100%">
+</p>
 
-Here are some ideas to get you started:
+**A growing ecosystem of web projects, tools, platforms, and experiments.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Continental brings together digital projects focused on clean design, practical utility, and polished user experiences.
+
+---
+
+## Featured project
+
+<a href="https://echo.continental-hub.com">
+  <img src="./assets/echo-archives-card.png" alt="The Echo Archives" width="100%">
+</a>
+
+### The Echo Archives
+
+**An ad-free archive and review platform for fiction audio dramas.**
+
+The Echo Archives helps listeners discover serialized audio fiction through curated show pages, reviews, tags, ratings, and creator-focused discovery tools.
+
+Built for people who care about immersive storytelling, cinematic sound, strong characters, and shows worth getting properly lost in.
+
+[Visit The Echo Archives](https://echo.continental-hub.com)
+
+---
+
+## Focus areas
+
+- Web platforms
+- Backend systems
+- Discord bots
+- UI/UX polish
+- Self-hosted infrastructure
+- Experimental tools
+
+## Status
+
+Continental is actively being built, refined, and expanded.
+
+## Links
+
+- Hub: [continental-hub.com](https://continental-hub.com)
+- Echo Archives: [echo.continental-hub.com](https://echo.continental-hub.com)
+- Contact: [contact.continental-hub.com](https://contact.continental-hub.com)
+```
