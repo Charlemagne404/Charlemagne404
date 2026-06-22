@@ -11,17 +11,17 @@ Continental brings together digital projects focused on clean design, practical 
 
 ## Featured project
 
-<a href="https://echo.continental-hub.com">
-  <img src="./assets/echo-archives-card.png" alt="The Echo Archives" width="100%">
-</a>
+<p align="center">
+  <a href="https://echo.continental-hub.com">
+    <img src="./assets/echo-archives-card.png" alt="The Echo Archives" width="85%">
+  </a>
+</p>
 
 ### The Echo Archives
 
 **An ad-free archive and review platform for fiction audio dramas.**
 
-The Echo Archives helps listeners discover serialized audio fiction through curated show pages, reviews, tags, ratings, and creator-focused discovery tools.
-
-Built for people who care about immersive storytelling, cinematic sound, strong characters, and shows worth getting properly lost in.
+The Echo Archives helps listeners discover serialized audio fiction through curated show pages, reviews, tags, ratings, and creator-focused discovery tools — built for people who care about immersive storytelling, cinematic sound, strong characters, and shows worth getting properly lost in.
 
 [Visit The Echo Archives](https://echo.continental-hub.com)
 
@@ -36,9 +36,9 @@ Built for people who care about immersive storytelling, cinematic sound, strong 
 - Self-hosted infrastructure
 - Experimental tools
 
-## Status
+## Direction
 
-Continental is actively being built, refined, and expanded.
+Continental focuses on polished, practical digital projects with a shared design language and long-term ecosystem thinking.
 
 ## Links
 
