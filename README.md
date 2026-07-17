@@ -12,7 +12,7 @@ Continental brings together digital projects focused on clean design, practical 
 ## Featured project
 
 <p align="center">
-  <a href="https://echo.continental-hub.com">
+  <a href="https://echoarchives.net">
     <img src="./assets/echo-archives-card.png" alt="The Echo Archives" width="85%">
   </a>
 </p>
@@ -23,7 +23,7 @@ Continental brings together digital projects focused on clean design, practical 
 
 The Echo Archives helps listeners discover serialized audio fiction through curated show pages, reviews, tags, ratings, and creator-focused discovery tools — built for people who care about immersive storytelling, cinematic sound, strong characters, and shows worth getting properly lost in.
 
-[Visit The Echo Archives](https://echo.continental-hub.com)
+[Visit The Echo Archives](https://echoarchives.net)
 
 ---
 
@@ -43,6 +43,6 @@ Continental focuses on polished, practical digital projects with a shared design
 ## Links
 
 - Hub: [continental-hub.com](https://continental-hub.com)
-- Echo Archives: [echo.continental-hub.com](https://echo.continental-hub.com)
+- Echo Archives: [echoarchives.net](https://echoarchives.net)
 - Contact: [contact.continental-hub.com](https://contact.continental-hub.com)
 ```
